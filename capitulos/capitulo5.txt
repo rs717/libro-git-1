@@ -1,0 +1,5 @@
+Este es el capítulo 5 bla bla bla bla bla
+Prueba 3 con nuevo repositorio abierto en carpeta independiente.
+No me sale con git remote add github https://...
+TUVE QUE CLONAR para poder trabajar
+a ti también te pasó?
